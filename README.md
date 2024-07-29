@@ -20,9 +20,9 @@ Vector: O Vector é uma implementação antiga da interface List que é semelhan
 
 Exercícios:
 
-## 1. Operações Básicas com List
-## 2. Pesquisa em List
-## 3. Ordenação na List
+- Operações Básicas com List
+* Pesquisa em List
++ Ordenação na List
 
 ## 1. Lista de Tarefas
 
