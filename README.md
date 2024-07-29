@@ -38,7 +38,7 @@ Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atri
 
 + obterDescricoesTarefas(): Retorna uma lista contendo a descrição de todas as tarefas na lista.
 
-## 2. Carrinho de Compras:
+### 2. Carrinho de Compras:
 Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
 
 - adicionarItem(String nome, double preco, int quantidade): Adiciona um item ao carrinho com o nome, preço e quantidade especificados.
@@ -48,7 +48,7 @@ Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compra
 
 ## Pesquisa em List
 
-## 1. Catálogo de Livros
+### 1. Catálogo de Livros
 
 Crie uma classe chamada "CatalogoLivros" que possui uma lista de objetos do tipo "Livro" como atributo. Cada livro possui atributos como título, autor e ano de publicação. Implemente os seguintes métodos:
 
@@ -57,7 +57,7 @@ Crie uma classe chamada "CatalogoLivros" que possui uma lista de objetos do tipo
 * pesquisarPorIntervaloAnos(int anoInicial, int anoFinal): Pesquisa livros publicados em um determinado intervalo de anos e retorna uma lista com os livros encontrados.
 + pesquisarPorTitulo(String titulo): Pesquisa livros por título e retorna o primeiro livro encontrado.
 
-## 2. Soma de Números
+### 2. Soma de Números
 
 Crie uma classe chamada "SomaNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
 
