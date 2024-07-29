@@ -38,7 +38,7 @@ Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atri
 
 + obterDescricoesTarefas(): Retorna uma lista contendo a descrição de todas as tarefas na lista.
 
-- 2. Carrinho de Compras:
+## 2. Carrinho de Compras:
 Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
 
 - adicionarItem(String nome, double preco, int quantidade): Adiciona um item ao carrinho com o nome, preço e quantidade especificados.
