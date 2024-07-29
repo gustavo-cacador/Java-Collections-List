@@ -20,21 +20,21 @@ Vector: O Vector é uma implementação antiga da interface List que é semelhan
 
 Exercícios:
 
-- 1.Operações Básicas com List
-* 2.Pesquisa em List
-+ 3.Ordenação na List
+- 1. Operações Básicas com List
+* 2. Pesquisa em List
++ 3. Ordenação na List
 
-## 1. Lista de Tarefas
+- 1. Lista de Tarefas
 
 Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:
 
-_ _. adicionarTarefa(String descricao): Adiciona uma nova tarefa à lista com a descrição fornecida.
+- adicionarTarefa(String descricao): Adiciona uma nova tarefa à lista com a descrição fornecida.
 
-removerTarefa(String descricao): Remove uma tarefa da lista com base em sua descrição.
+* removerTarefa(String descricao): Remove uma tarefa da lista com base em sua descrição.
 
-obterNumeroTotalTarefas(): Retorna o número total de tarefas na lista.
++ obterNumeroTotalTarefas(): Retorna o número total de tarefas na lista.
 
-obterDescricoesTarefas(): Retorna uma lista contendo a descrição de todas as tarefas na lista.
++ obterDescricoesTarefas(): Retorna uma lista contendo a descrição de todas as tarefas na lista.
 
 2. Carrinho de Compras:
 Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
