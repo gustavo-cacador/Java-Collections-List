@@ -28,7 +28,7 @@ Exercícios:
 
 Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:
 
-adicionarTarefa(String descricao): Adiciona uma nova tarefa à lista com a descrição fornecida.
+** **. adicionarTarefa(String descricao): Adiciona uma nova tarefa à lista com a descrição fornecida.
 
 removerTarefa(String descricao): Remove uma tarefa da lista com base em sua descrição.
 
